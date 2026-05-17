@@ -193,10 +193,10 @@ because Java bytecode can run on any operating system using JVM.
 
 ## Diagram Explanation
 
-### Java Code Execution Flow
+### JDK, JRE and JVM Relationship
 
 ![Java Code Running](./java-code-running.png)
 
-### JDK, JRE and JVM Relationship
+### Java Code Execution Flow
 
 ![JDK JRE JVM](./jdk-jre-jvm.png)
