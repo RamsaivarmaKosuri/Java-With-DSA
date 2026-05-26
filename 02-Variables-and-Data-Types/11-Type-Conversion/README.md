@@ -51,7 +51,7 @@ Java automatically converts it.
 ## Flow of Type Conversion
 
 ```text
-byte → short → int → long → float → double
+byte → short → int → float → long → double
 ```
 
 Smaller datatype converts into bigger datatype.
