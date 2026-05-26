@@ -302,7 +302,7 @@ memory cleared
 Add image here:
 
 ```md
-![Call Stack Overview](../images/call-stack-overview.png)
+![Call Stack Overview](./call-stack-overview.png)
 ```
 
 Explanation:
@@ -336,7 +336,7 @@ new function calls are added on top
 Add image here:
 
 ```md
-![Return in Call Stack](../images/call-stack-return.png)
+![Return in Call Stack](./call-stack-return.png)
 ```
 
 When:
@@ -368,7 +368,7 @@ removed from stack
 Add image here:
 
 ```md
-![Stack Frame](../images/stack-frame.png)
+![Stack Frame](./stack-frame.png)
 ```
 
 Each function gets its own:
