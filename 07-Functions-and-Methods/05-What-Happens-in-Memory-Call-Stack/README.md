@@ -336,7 +336,7 @@ new function calls are added on top
 Add image here:
 
 ```md
-![Return in Call Stack](../images/call-stack-return (1).png)
+![Return in Call Stack](../images/call-stack-return.png)
 ```
 
 When:
