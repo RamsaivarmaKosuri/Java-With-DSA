@@ -299,7 +299,6 @@ memory cleared
 
 ### Call Stack Working
 
-Add image here:
 
 ![Call Stack Overview](./call-stack-overview.png)
 
@@ -331,7 +330,6 @@ new function calls are added on top
 
 ### Return Statement Understanding
 
-Add image here:
 
 ![Return in Call Stack](./call-stack-return.png)
 
@@ -361,7 +359,6 @@ removed from stack
 
 ### Stack Frame Understanding
 
-Add image here:
 
 ![Stack Frame](./stack-frame.png)
 
