@@ -8,9 +8,7 @@ Patterns are one of the best ways to improve:
 
 In Java, pattern questions are mostly solved using:
 
-```text
-Nested Loops
-```
+- Nested Loops
 
 ---
 
@@ -38,6 +36,8 @@ These are commonly asked in:
 - [Half Pyramid Pattern](./03-Half-Pyramid-Pattern)
 - [Character Pattern](./04-Character-Pattern)
 - [Special Note](./05-Special-Note)
+- [X Pattern](./06-X-Pattern)
+- [Hollow Square](./07-Hollow-Square)
 
 ---
 
@@ -50,14 +50,33 @@ These are commonly asked in:
 │── 03-Half-Pyramid-Pattern
 │── 04-Character-Pattern
 │── 05-Special-Note
+│── 06-X-Pattern
+│── 07-Hollow-Square
 ```
 
 ---
 
 ## Key Takeaways
 
-- Patterns improve logic building
-- Nested loops are important
-- Outer loop handles lines
-- Inner loop handles printing
-- Practice improves speed and thinking
+- Patterns improve logic building.
+- Nested loops are important.
+- Outer loop handles rows (lines).
+- Inner loop handles columns (printing).
+- Conditions inside loops help create different shapes and designs.
+- X Pattern introduces diagonal-based logic.
+- Hollow Square introduces boundary-checking logic.
+- Practice improves speed and thinking.
+
+---
+
+## Special Note
+
+While solving patterns, focus on:
+
+1. Number of Rows
+2. Number of Columns
+3. What to Print
+4. When to Print
+5. The Condition Behind the Pattern
+
+Once you understand these steps, solving new patterns becomes much easier.
