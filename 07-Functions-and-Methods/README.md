@@ -68,6 +68,11 @@ Functions are heavily used in:
 - [Decimal to Binary](./17-Decimal-to-Binary)
 - [Code - Decimal to Binary](./18-Code-Decimal-to-Binary)
 
+### Additional Concepts
+
+- [Method Scope](./19-Method-Scope)
+- [Block Scope](./20-Block-Scope)
+
 ---
 
 ## Folder Structure
@@ -92,6 +97,8 @@ Functions are heavily used in:
 │── 16-Code-Binary-to-Decimal
 │── 17-Decimal-to-Binary
 │── 18-Code-Decimal-to-Binary
+│── 19-Method-Scope
+│── 20-Block-Scope
 ```
 
 ---
