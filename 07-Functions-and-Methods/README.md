@@ -61,6 +61,13 @@ Functions are heavily used in:
 - [Check Prime Number](./13-Check-Prime-Number)
 - [Primes in Range](./14-Primes-in-Range)
 
+### Number System Conversion
+
+- [Binary to Decimal](./15-Binary-to-Decimal)
+- [Code - Binary to Decimal](./16-Code-Binary-to-Decimal)
+- [Decimal to Binary](./17-Decimal-to-Binary)
+- [Code - Decimal to Binary](./18-Code-Decimal-to-Binary)
+
 ---
 
 ## Folder Structure
@@ -81,6 +88,10 @@ Functions are heavily used in:
 │── 12-Overloading-Using-Data-Types
 │── 13-Check-Prime-Number
 │── 14-Primes-in-Range
+│── 15-Binary-to-Decimal
+│── 16-Code-Binary-to-Decimal
+│── 17-Decimal-to-Binary
+│── 18-Code-Decimal-to-Binary
 ```
 
 ---
@@ -98,6 +109,7 @@ Functions are heavily used in:
 - Function Overloading allows multiple methods with the same name.
 - Overloading can be achieved using parameters or data types.
 - Prime numbers can be efficiently checked using `Math.sqrt(n)`.
+- Binary and Decimal numbers can be converted using mathematical logic and functions.
 - Reusable functions make programs cleaner and easier to maintain.
 
 ---
@@ -106,12 +118,15 @@ Functions are heavily used in:
 
 By completing this section, you will understand:
 
-- How functions work internally
-- How values are passed to functions
-- How memory is managed using the Call Stack
-- How to create reusable methods
-- How Function Overloading works
-- How to solve mathematical problems using functions
-- How to build logic using Prime Number problems
+- How functions work internally.
+- How values are passed to functions.
+- How memory is managed using the Call Stack.
+- How to create reusable methods.
+- How Function Overloading works.
+- How to solve mathematical problems using functions.
+- How to build logic using Prime Number problems.
+- How Binary to Decimal conversion works.
+- How Decimal to Binary conversion works.
+- How mathematical concepts can be implemented using Java functions.
 
 This section forms the foundation for problem-solving and is heavily used in DSA, Competitive Programming, and Real-World Development.
