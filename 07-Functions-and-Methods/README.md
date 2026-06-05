@@ -73,6 +73,10 @@ Functions are heavily used in:
 - [Method Scope](./19-Method-Scope)
 - [Block Scope](./20-Block-Scope)
 
+### Practice Questions
+
+- [Practice Questions](./21-Practice-Questions)
+
 ---
 
 ## Folder Structure
@@ -99,6 +103,7 @@ Functions are heavily used in:
 │── 18-Code-Decimal-to-Binary
 │── 19-Method-Scope
 │── 20-Block-Scope
+│── 21-Practice-Questions
 ```
 
 ---
