@@ -53,11 +53,7 @@ Output:
 
 # Visual Understanding
 
-Add your screenshot here:
-
-```md
 ![Solid Rhombus Dry Run](solid-rhombus-dry-run.png)
-```
 
 The screenshot shows:
 
